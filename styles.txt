@@ -1,0 +1,12 @@
+FONT FAMILY
+
+Nunito
+Roboto
+
+
+FONT SIZES
+
+H1 6.4rem
+H4 1.8rem
+
+normal 1.4rem
