@@ -54,6 +54,7 @@
   }
   .container--how {
     grid-template-columns: 1fr 1fr;
+    margin-top: 6.4rem;
   }
   .step-text {
     font-size: 1.4rem;
